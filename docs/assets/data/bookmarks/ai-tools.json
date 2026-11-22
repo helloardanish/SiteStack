@@ -1,0 +1,22 @@
+[
+ {
+  "id": "claude",
+  "title": "Claude",
+  "url": "https://claude.ai/",
+  "description": "AI assistant from Anthropic.",
+  "category": "ai-tools",
+  "subcategory": "",
+  "tags": [
+   "AI",
+   "Chat"
+  ],
+  "type": "AI Tool",
+  "pricing": "Freemium",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ }
+]

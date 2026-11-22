@@ -1,0 +1,31 @@
+[
+ {
+  "id": "vscode",
+  "title": "Visual Studio Code",
+  "url": "https://github.com/microsoft/vscode",
+  "description": "Open-source code editor.",
+  "category": "open-source",
+  "subcategory": "desktop",
+  "tags": [
+   "Editor"
+  ],
+  "type": "Repository",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": "",
+  "repository": {
+   "owner": "microsoft",
+   "name": "vscode",
+   "language": "TypeScript",
+   "stars": null,
+   "topics": [
+    "editor"
+   ],
+   "repositoryUrl": "https://github.com/microsoft/vscode"
+  }
+ }
+]

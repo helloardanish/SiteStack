@@ -1,0 +1,59 @@
+[
+ {
+  "id": "postman",
+  "title": "Postman",
+  "url": "https://www.postman.com/",
+  "description": "API platform for building and testing APIs.",
+  "category": "developer-tools",
+  "subcategory": "",
+  "tags": [
+   "API"
+  ],
+  "type": "Tool",
+  "pricing": "Freemium",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ },
+ {
+  "id": "regex101",
+  "title": "regex101",
+  "url": "https://regex101.com/",
+  "description": "Online regex tester and debugger.",
+  "category": "developer-tools",
+  "subcategory": "",
+  "tags": [
+   "Regex"
+  ],
+  "type": "Tool",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ },
+ {
+  "id": "zensical",
+  "title": "Zensical",
+  "url": "https://zensical.org/",
+  "description": "Static site generator used by SiteStack.",
+  "category": "developer-tools",
+  "subcategory": "",
+  "tags": [
+   "Static Sites"
+  ],
+  "type": "Tool",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ }
+]

@@ -1,0 +1,21 @@
+[
+ {
+  "id": "obsidian",
+  "title": "Obsidian",
+  "url": "https://obsidian.md/",
+  "description": "Markdown-based knowledge base.",
+  "category": "productivity",
+  "subcategory": "",
+  "tags": [
+   "Notes"
+  ],
+  "type": "App",
+  "pricing": "Freemium",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ }
+]

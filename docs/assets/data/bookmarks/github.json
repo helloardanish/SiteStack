@@ -1,0 +1,123 @@
+[
+ {
+  "id": "system-design-primer",
+  "title": "System Design Primer",
+  "url": "https://github.com/donnemartin/system-design-primer",
+  "description": "Learn how to design large-scale systems.",
+  "category": "github",
+  "subcategory": "system-design",
+  "tags": [
+   "System Design"
+  ],
+  "type": "Repository",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": true,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": "",
+  "repository": {
+   "owner": "donnemartin",
+   "name": "system-design-primer",
+   "language": "Python",
+   "stars": null,
+   "topics": [
+    "system-design",
+    "interview"
+   ],
+   "repositoryUrl": "https://github.com/donnemartin/system-design-primer"
+  }
+ },
+ {
+  "id": "spring-boot-repo",
+  "title": "Spring Boot",
+  "url": "https://github.com/spring-projects/spring-boot",
+  "description": "Framework for production-grade Spring applications.",
+  "category": "github",
+  "subcategory": "spring-boot",
+  "tags": [
+   "Spring Boot",
+   "Java"
+  ],
+  "type": "Repository",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": true,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": "",
+  "repository": {
+   "owner": "spring-projects",
+   "name": "spring-boot",
+   "language": "Java",
+   "stars": null,
+   "topics": [
+    "spring-boot",
+    "java"
+   ],
+   "repositoryUrl": "https://github.com/spring-projects/spring-boot"
+  }
+ },
+ {
+  "id": "kubernetes-repo",
+  "title": "Kubernetes",
+  "url": "https://github.com/kubernetes/kubernetes",
+  "description": "Container orchestration system.",
+  "category": "github",
+  "subcategory": "kubernetes",
+  "tags": [
+   "Kubernetes",
+   "DevOps"
+  ],
+  "type": "Repository",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": "",
+  "repository": {
+   "owner": "kubernetes",
+   "name": "kubernetes",
+   "language": "Go",
+   "stars": null,
+   "topics": [
+    "kubernetes",
+    "containers"
+   ],
+   "repositoryUrl": "https://github.com/kubernetes/kubernetes"
+  }
+ },
+ {
+  "id": "freecodecamp-repo",
+  "title": "freeCodeCamp",
+  "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+  "description": "Open-source codebase and curriculum for learning to code.",
+  "category": "github",
+  "subcategory": "useful",
+  "tags": [
+   "Learning"
+  ],
+  "type": "Repository",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": "",
+  "repository": {
+   "owner": "freeCodeCamp",
+   "name": "freeCodeCamp",
+   "language": "TypeScript",
+   "stars": null,
+   "topics": [
+    "education"
+   ],
+   "repositoryUrl": "https://github.com/freeCodeCamp/freeCodeCamp"
+  }
+ }
+]

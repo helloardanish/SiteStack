@@ -1,0 +1,21 @@
+[
+ {
+  "id": "github",
+  "title": "GitHub",
+  "url": "https://github.com/",
+  "description": "Code hosting and collaboration.",
+  "category": "useful",
+  "subcategory": "",
+  "tags": [
+   "Git"
+  ],
+  "type": "Platform",
+  "pricing": "Freemium",
+  "favicon": "",
+  "isFavorite": true,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ }
+]

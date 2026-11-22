@@ -1,0 +1,62 @@
+[
+ {
+  "id": "docker-docs",
+  "title": "Docker Docs",
+  "url": "https://docs.docker.com/",
+  "description": "Official Docker documentation.",
+  "category": "documentation",
+  "subcategory": "",
+  "tags": [
+   "Docker",
+   "DevOps"
+  ],
+  "type": "Documentation",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ },
+ {
+  "id": "mdn",
+  "title": "MDN Web Docs",
+  "url": "https://developer.mozilla.org/",
+  "description": "Web platform documentation.",
+  "category": "documentation",
+  "subcategory": "",
+  "tags": [
+   "Web",
+   "JavaScript"
+  ],
+  "type": "Documentation",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": true,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ },
+ {
+  "id": "spring-docs",
+  "title": "Spring Projects",
+  "url": "https://spring.io/projects",
+  "description": "Official Spring project docs.",
+  "category": "documentation",
+  "subcategory": "",
+  "tags": [
+   "Spring",
+   "Java"
+  ],
+  "type": "Documentation",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ }
+]

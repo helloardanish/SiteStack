@@ -1,0 +1,103 @@
+[
+ {
+  "id": "leetcode",
+  "title": "LeetCode",
+  "url": "https://leetcode.com/",
+  "description": "Practice coding interview problems and contests.",
+  "category": "interview-preparation",
+  "subcategory": "dsa",
+  "tags": [
+   "DSA",
+   "Java",
+   "Algorithms"
+  ],
+  "type": "Practice Platform",
+  "pricing": "Freemium",
+  "favicon": "",
+  "isFavorite": true,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ },
+ {
+  "id": "neetcode",
+  "title": "NeetCode",
+  "url": "https://neetcode.io/",
+  "description": "Curated DSA roadmap with video explanations.",
+  "category": "interview-preparation",
+  "subcategory": "dsa",
+  "tags": [
+   "DSA",
+   "Roadmap"
+  ],
+  "type": "Learning Platform",
+  "pricing": "Freemium",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ },
+ {
+  "id": "geeksforgeeks",
+  "title": "GeeksforGeeks",
+  "url": "https://www.geeksforgeeks.org/",
+  "description": "Tutorials and articles on algorithms, CS fundamentals and interviews.",
+  "category": "interview-preparation",
+  "subcategory": "dsa",
+  "tags": [
+   "DSA",
+   "CS"
+  ],
+  "type": "Learning Platform",
+  "pricing": "Freemium",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ },
+ {
+  "id": "hackerrank",
+  "title": "HackerRank",
+  "url": "https://www.hackerrank.com/",
+  "description": "Coding challenges and skill certifications.",
+  "category": "interview-preparation",
+  "subcategory": "coding-platforms",
+  "tags": [
+   "Coding",
+   "SQL"
+  ],
+  "type": "Practice Platform",
+  "pricing": "Freemium",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ },
+ {
+  "id": "baeldung",
+  "title": "Baeldung",
+  "url": "https://www.baeldung.com/",
+  "description": "In-depth Java and Spring tutorials.",
+  "category": "interview-preparation",
+  "subcategory": "spring-boot",
+  "tags": [
+   "Java",
+   "Spring Boot"
+  ],
+  "type": "Tutorials",
+  "pricing": "Freemium",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ }
+]

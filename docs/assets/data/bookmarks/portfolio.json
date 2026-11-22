@@ -1,0 +1,41 @@
+[
+ {
+  "id": "astro-themes",
+  "title": "Astro Themes",
+  "url": "https://astro.build/themes/",
+  "description": "Starter themes, including portfolio templates.",
+  "category": "portfolio",
+  "subcategory": "",
+  "tags": [
+   "Astro",
+   "Templates"
+  ],
+  "type": "Inspiration",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ },
+ {
+  "id": "gh-pages",
+  "title": "GitHub Pages",
+  "url": "https://pages.github.com/",
+  "description": "Free static hosting from a repository.",
+  "category": "portfolio",
+  "subcategory": "",
+  "tags": [
+   "Hosting"
+  ],
+  "type": "Platform",
+  "pricing": "Free",
+  "favicon": "",
+  "isFavorite": false,
+  "isPinned": false,
+  "collections": [],
+  "dateAdded": "2026-11-22",
+  "notes": ""
+ }
+]
