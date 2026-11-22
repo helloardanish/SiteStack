@@ -4,9 +4,11 @@
 {"id":"github","name":"GitHub Repositories","icon":"🐙"},
 {"id":"open-source","name":"Open Source","icon":"🌐"},
 {"id":"developer-tools","name":"Developer Tools","icon":"🛠️"},
+{"id":"developer-resources","name":"Developer Resources","icon":"🧑‍💻"},
 {"id":"portfolio","name":"Portfolio Inspiration","icon":"🎨"},
 {"id":"documentation","name":"Documentation","icon":"📚"},
 {"id":"ai-tools","name":"AI Tools","icon":"✨"},
 {"id":"productivity","name":"Productivity","icon":"⚡"},
+{"id":"resume","name":"Resume","icon":"📄"},
 {"id":"useful","name":"Useful Websites","icon":"🔖"}
 ]

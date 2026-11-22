@@ -1,123 +1,203 @@
+
 [
- {
-  "id": "system-design-primer",
-  "title": "System Design Primer",
-  "url": "https://github.com/donnemartin/system-design-primer",
-  "description": "Learn how to design large-scale systems.",
-  "category": "github",
-  "subcategory": "system-design",
-  "tags": [
-   "System Design"
-  ],
-  "type": "Repository",
-  "pricing": "Free",
-  "favicon": "",
-  "isFavorite": true,
-  "isPinned": false,
-  "collections": [],
-  "dateAdded": "2026-11-22",
-  "notes": "",
-  "repository": {
-   "owner": "donnemartin",
-   "name": "system-design-primer",
-   "language": "Python",
-   "stars": null,
-   "topics": [
-    "system-design",
-    "interview"
-   ],
-   "repositoryUrl": "https://github.com/donnemartin/system-design-primer"
+  {
+    "id": "zensical",
+    "title": "Zensical",
+    "url": "https://github.com/zensical/zensical",
+    "description": "Modern static site generator for creating beautiful documentation websites.",
+    "category": "github",
+    "subcategory": "documentation",
+    "tags": ["Documentation", "Static Site Generator", "Python"],
+    "type": "Repository",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": false,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-22",
+    "notes": "",
+    "repository": {
+      "owner": "zensical",
+      "name": "zensical",
+      "language": "Python",
+      "stars": null,
+      "topics": ["documentation", "static-site-generator"],
+      "repositoryUrl": "https://github.com/zensical/zensical"
+    }
+  },
+  {
+    "id": "mermaid",
+    "title": "Mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "description": "JavaScript-based diagramming and charting tool that generates diagrams from text definitions.",
+    "category": "github",
+    "subcategory": "diagramming",
+    "tags": ["JavaScript", "Diagrams", "Visualization"],
+    "type": "Repository",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": false,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-22",
+    "notes": "",
+    "repository": {
+      "owner": "mermaid-js",
+      "name": "mermaid",
+      "language": "TypeScript",
+      "stars": null,
+      "topics": ["diagrams", "flowcharts", "visualization"],
+      "repositoryUrl": "https://github.com/mermaid-js/mermaid"
+    }
+  },
+  {
+    "id": "daisyui",
+    "title": "daisyUI",
+    "url": "https://github.com/saadeghi/daisyui",
+    "description": "Tailwind CSS component library with semantic class names and customizable themes.",
+    "category": "github",
+    "subcategory": "frontend",
+    "tags": ["CSS", "Tailwind CSS", "UI Components"],
+    "type": "Repository",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": false,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-22",
+    "notes": "",
+    "repository": {
+      "owner": "saadeghi",
+      "name": "daisyui",
+      "language": "CSS",
+      "stars": null,
+      "topics": ["tailwindcss", "components", "themes"],
+      "repositoryUrl": "https://github.com/saadeghi/daisyui"
+    }
+  },
+  {
+    "id": "plantuml",
+    "title": "PlantUML",
+    "url": "https://github.com/plantuml/plantuml",
+    "description": "Tool for creating UML diagrams and technical illustrations from plain text descriptions.",
+    "category": "github",
+    "subcategory": "diagramming",
+    "tags": ["Java", "UML", "Diagrams"],
+    "type": "Repository",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": false,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-22",
+    "notes": "",
+    "repository": {
+      "owner": "plantuml",
+      "name": "plantuml",
+      "language": "Java",
+      "stars": null,
+      "topics": ["uml", "diagrams", "documentation"],
+      "repositoryUrl": "https://github.com/plantuml/plantuml"
+    }
+  },
+  {
+    "id": "pgpainless",
+    "title": "PGPainless",
+    "url": "https://github.com/pgpainless/pgpainless",
+    "description": "Java library for OpenPGP encryption, decryption, signing and key management.",
+    "category": "github",
+    "subcategory": "java-security",
+    "tags": ["Java", "OpenPGP", "Cryptography", "Security"],
+    "type": "Repository",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": false,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-22",
+    "notes": "",
+    "repository": {
+      "owner": "pgpainless",
+      "name": "pgpainless",
+      "language": "Java",
+      "stars": null,
+      "topics": ["openpgp", "encryption", "cryptography"],
+      "repositoryUrl": "https://github.com/pgpainless/pgpainless"
+    }
+  },
+  {
+    "id": "excalidraw",
+    "title": "Excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual collaborative whiteboard for creating hand-drawn-style diagrams and sketches.",
+    "category": "github",
+    "subcategory": "diagramming",
+    "tags": ["TypeScript", "Whiteboard", "Diagrams", "Collaboration"],
+    "type": "Repository",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": false,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-22",
+    "notes": "",
+    "repository": {
+      "owner": "excalidraw",
+      "name": "excalidraw",
+      "language": "TypeScript",
+      "stars": null,
+      "topics": ["whiteboard", "drawing", "collaboration"],
+      "repositoryUrl": "https://github.com/excalidraw/excalidraw"
+    }
+  },
+  {
+    "id": "jna",
+    "title": "Java Native Access (JNA)",
+    "url": "https://github.com/java-native-access/jna",
+    "description": "Library providing Java programs with easy access to native shared libraries without JNI boilerplate.",
+    "category": "github",
+    "subcategory": "java",
+    "tags": ["Java", "Native Integration", "JNI Alternative"],
+    "type": "Repository",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": false,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-22",
+    "notes": "",
+    "repository": {
+      "owner": "java-native-access",
+      "name": "jna",
+      "language": "Java",
+      "stars": null,
+      "topics": ["java", "native-access", "jni"],
+      "repositoryUrl": "https://github.com/java-native-access/jna"
+    }
+  },
+  {
+    "id": "just-the-docs-template",
+    "title": "Just the Docs Template",
+    "url": "https://github.com/just-the-docs/just-the-docs-template",
+    "description": "Starter template for building searchable, responsive documentation websites using the Just the Docs Jekyll theme.",
+    "category": "github",
+    "subcategory": "documentation",
+    "tags": ["Documentation", "Jekyll", "Ruby", "Static Site"],
+    "type": "Repository",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": false,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-22",
+    "notes": "",
+    "repository": {
+      "owner": "just-the-docs",
+      "name": "just-the-docs-template",
+      "language": "HTML",
+      "stars": null,
+      "topics": ["documentation", "jekyll", "github-pages"],
+      "repositoryUrl": "https://github.com/just-the-docs/just-the-docs-template"
+    }
   }
- },
- {
-  "id": "spring-boot-repo",
-  "title": "Spring Boot",
-  "url": "https://github.com/spring-projects/spring-boot",
-  "description": "Framework for production-grade Spring applications.",
-  "category": "github",
-  "subcategory": "spring-boot",
-  "tags": [
-   "Spring Boot",
-   "Java"
-  ],
-  "type": "Repository",
-  "pricing": "Free",
-  "favicon": "",
-  "isFavorite": true,
-  "isPinned": false,
-  "collections": [],
-  "dateAdded": "2026-11-22",
-  "notes": "",
-  "repository": {
-   "owner": "spring-projects",
-   "name": "spring-boot",
-   "language": "Java",
-   "stars": null,
-   "topics": [
-    "spring-boot",
-    "java"
-   ],
-   "repositoryUrl": "https://github.com/spring-projects/spring-boot"
-  }
- },
- {
-  "id": "kubernetes-repo",
-  "title": "Kubernetes",
-  "url": "https://github.com/kubernetes/kubernetes",
-  "description": "Container orchestration system.",
-  "category": "github",
-  "subcategory": "kubernetes",
-  "tags": [
-   "Kubernetes",
-   "DevOps"
-  ],
-  "type": "Repository",
-  "pricing": "Free",
-  "favicon": "",
-  "isFavorite": false,
-  "isPinned": false,
-  "collections": [],
-  "dateAdded": "2026-11-22",
-  "notes": "",
-  "repository": {
-   "owner": "kubernetes",
-   "name": "kubernetes",
-   "language": "Go",
-   "stars": null,
-   "topics": [
-    "kubernetes",
-    "containers"
-   ],
-   "repositoryUrl": "https://github.com/kubernetes/kubernetes"
-  }
- },
- {
-  "id": "freecodecamp-repo",
-  "title": "freeCodeCamp",
-  "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-  "description": "Open-source codebase and curriculum for learning to code.",
-  "category": "github",
-  "subcategory": "useful",
-  "tags": [
-   "Learning"
-  ],
-  "type": "Repository",
-  "pricing": "Free",
-  "favicon": "",
-  "isFavorite": false,
-  "isPinned": false,
-  "collections": [],
-  "dateAdded": "2026-11-22",
-  "notes": "",
-  "repository": {
-   "owner": "freeCodeCamp",
-   "name": "freeCodeCamp",
-   "language": "TypeScript",
-   "stars": null,
-   "topics": [
-    "education"
-   ],
-   "repositoryUrl": "https://github.com/freeCodeCamp/freeCodeCamp"
-  }
- }
 ]
