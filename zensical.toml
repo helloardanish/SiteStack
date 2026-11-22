@@ -1,8 +1,32 @@
 [project]
 site_name = "SiteStack"
-site_description = "Your favourite corner of the internet."
-# For GitHub Pages project sites set: site_url = "https://<user>.github.io/<repo>/"
+site_description = "Your personal developer resource hub. Organize, discover and manage your favourite websites, tools, repositories and learning resources."
+site_author = "A R Danish"
+site_url = "https://helloardanish.github.io/SiteStack/"
+copyright = "Copyright &copy; 2026 A R Danish"
+
 docs_dir = "docs"
-extra_css = ["assets/css/main.css"]
-extra_javascript = [{ path = "assets/js/app.js", type = "module" }]
-nav = [{ "Dashboard" = "index.md" }]
+site_dir = "site"
+
+nav = [
+    { "Dashboard" = "index.md" }
+]
+
+extra_css = [
+    "assets/css/main.css"
+]
+
+extra_javascript = [
+    { path = "assets/js/app.js", type = "module" }
+]
+
+[project.theme]
+variant = "modern"
+features = [
+    "content.code.copy"
+]
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "indigo"
+accent = "amber"
