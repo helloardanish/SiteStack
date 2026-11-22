@@ -254,5 +254,22 @@
     "collections": [],
     "dateAdded": "2026-11-22",
     "notes": ""
+  },
+  {
+    "id": "awesome-java",
+    "title": "Awesome Java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "description": "A curated list of noteworthy Java frameworks, libraries, tools and resources.",
+    "category": "interview-preparation",
+    "subcategory": "system-design",
+    "tags": ["System Design", "Visual Learning", "Architecture", "Distributed Systems"],
+    "type": "Learning Resource",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": false,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-22",
+    "notes": ""
   }
 ]
