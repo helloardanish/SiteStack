@@ -1,5 +1,22 @@
 [
     {
+      "id": "design-patterns-in-java",
+      "title": "Design Patterns in Java (Java 27)",
+      "url": "https://github.com/aliturgutbozkurt/design-patterns-in-java",
+      "description": "An open, bilingual (English + Turkish) course on design patterns in modern Java (JDK 27) for the Fall 2026 semester: 12 modules and a capstone project.",
+      "category": "developer-resources",
+      "subcategory": "design-patterns",
+      "tags": ["Java", "Design Patterns", "OOP", "Software Architecture"],
+      "type": "Code Examples",
+      "pricing": "Free",
+      "favicon": "",
+      "isFavorite": false,
+      "isPinned": false,
+      "collections": [],
+      "dateAdded": "2026-11-22",
+      "notes": ""
+    },
+    {
     "id": "30-days-of-react",
     "title": "30 Days of React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
