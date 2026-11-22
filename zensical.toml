@@ -2,7 +2,7 @@
 site_name = "SiteStack"
 site_description = "Your personal developer resource hub. Organize, discover and manage your favourite websites, tools, repositories and learning resources."
 site_author = "A R Danish"
-site_url = "https://helloardanish.github.io/SiteStack/"
+site_url = "https://helloardanish.github.io/sitestack/"
 copyright = "Copyright &copy; 2026 A R Danish"
 
 docs_dir = "docs"
