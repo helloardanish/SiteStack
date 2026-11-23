@@ -1,21 +1,36 @@
 [
- {
-  "id": "github",
-  "title": "GitHub",
-  "url": "https://github.com/",
-  "description": "Code hosting and collaboration.",
-  "category": "useful",
-  "subcategory": "",
-  "tags": [
-   "Git"
-  ],
-  "type": "Platform",
-  "pricing": "Freemium",
-  "favicon": "",
-  "isFavorite": true,
-  "isPinned": false,
-  "collections": [],
-  "dateAdded": "2026-11-22",
-  "notes": ""
- }
+  {
+    "id": "bbc-learning-english",
+    "title": "BBC Learning English",
+    "url": "https://www.bbc.co.uk/learningenglish/",
+    "description": "Learn English through lessons, vocabulary, grammar, pronunciation, and listening practice.",
+    "category": "useful",
+    "subcategory": "",
+    "tags": ["English", "Learning", "Education"],
+    "type": "Platform",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": true,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-24",
+    "notes": ""
+  },
+  {
+    "id": "english-with-lucy",
+    "title": "English with Lucy",
+    "url": "https://www.youtube.com/@EnglishwithLucy",
+    "description": "Improve English fluency, pronunciation, vocabulary, grammar, and British English through video lessons.",
+    "category": "useful",
+    "subcategory": "",
+    "tags": ["English", "YouTube", "Learning", "Pronunciation"],
+    "type": "YouTube Channel",
+    "pricing": "Free",
+    "favicon": "",
+    "isFavorite": true,
+    "isPinned": false,
+    "collections": [],
+    "dateAdded": "2026-11-24",
+    "notes": ""
+  }
 ]
